@@ -1,4 +1,4 @@
-module Main (setup) where
+module Securepassword.Main (setup) where
 
 import Main.Internal (Response, main)
 import Main.ParseConfig (UnparsedConfig, parseConfig)
